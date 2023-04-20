@@ -13,7 +13,7 @@ export default function Home() {
     <>
       <Head>
         <meta name='robots' content='index' />
-        <title>Contact us - Syntx</title>
+        <title>Syntx</title>
       </Head>
       <Hero />
       <LogoGrid />
