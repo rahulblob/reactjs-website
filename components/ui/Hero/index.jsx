@@ -2,6 +2,9 @@ import NavLink from "../NavLink"
 
 const Hero = () => (
     <section>
+      <Head>
+        <title>Syntx</title>
+      </Head>
         <div className="custom-screen py-28 text-gray-600">
             <div className="space-y-5 max-w-4xl mx-auto text-center">
                 <h1 className="text-4xl text-gray-800 font-extrabold mx-auto sm:text-6xl">
