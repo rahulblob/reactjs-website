@@ -7,7 +7,7 @@ export default function GetStarted() {
   const servicesItems = [
     "Mobile development",
     "UI/UX Design",
-    "web development",
+    "Web Development",
     "SEO",
   ];
 
